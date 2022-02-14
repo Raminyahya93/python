@@ -1,0 +1,4 @@
+https://api.telegram.org/bot5266751827:AAEfeKkxSPMkEQSdcdmwidMuh9XZhHi5tbY/SendMessage?chat_id=1233004016&text=HelloWorld
+
+
+https://api.telegram.org/bot5266751827:AAEfeKkxSPMkEQSdcdmwidMuh9XZhHi5tbY/getUpdates?offset=-1?chat_id=1233004016
